@@ -1,0 +1,19 @@
+{
+  "name": "get-title",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "simple": "node simple.js",
+    "flow": "node flow.js",
+    "promises": "node promises.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "express": "^4.17.2",
+    "node-fetch": "^2.2.0"
+    
+  }
+}
